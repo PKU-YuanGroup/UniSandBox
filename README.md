@@ -4,7 +4,7 @@
 
 > [Yuwei Niu¹²\*](https://purshow.github.io/), [Weiyang Jin³\*](https://github.com/WayneJin0918), Jiaqi Liao, Chaoran Feng¹, Peng Jin¹, Bin Lin¹, Zongjian Li¹, Bin Zhu¹, [Weihao Yu¹](https://whyu.me/), [Li Yuan¹⁴†](https://yuanli2333.github.io/)
 >
-> ¹Peking University, ²Chongqing University, ³HKU MMLab, ⁴PengCheng Laboratory
+> ¹Peking University, ²Chongqing University, ³HKU MMLab, ⁴PengCheng Laboratory  
 > \*Equal contribution, †Corresponding Author
 >
 > **Contact:** niuyuwei04@gmail.com, yuanli-ece@pku.edu.cn
