@@ -35,7 +35,7 @@ pip install flash_attn==2.5.8 --no-build-isolation
 After downloading:
 
 - **Configure dataset paths** in `data/dataset_info.py`:
-  - For reasoning STARS data, fill the placeholders under `DATASET_INFO["t2i_pretrain"]` (e.g., `math1_reject_5k`, `math2_reject_5k`, `mapping1_1w_reject`, etc.) with your local `data_dir` and `num_total_samples`.
+  - For reasoning Training, fill the placeholders under `DATASET_INFO["t2i_pretrain"]` (e.g., `math1_reject_5k`, `math2_reject_5k`, `mapping1_1w_reject`, etc.) with your local `data_dir` and `num_total_samples`.
   - For knowledge injection, update `DATASET_INFO["vlm_sft"]` entries (e.g., `Lysendria`, `Aurelius_Nyxella`, etc.) so that `data_dir` points to your rendered images and `jsonl_path` points to the corresponding JSONL files under `data/knowledge`.
 - **Check dataset configs** in `data/configs/Math/*.yaml`, `data/configs/Mapping/*.yaml`, and `data/configs/Knowledge/*/*.yaml` to ensure that the dataset names they reference exist and match the keys in `DATASET_INFO`.
 
