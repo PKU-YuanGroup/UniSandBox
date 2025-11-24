@@ -1,8 +1,6 @@
------
-
 # UniSandbox: Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward
 
-[](https://www.google.com/search?q=https://arxiv.org/abs/2501.xxxxx) [](https://opensource.org/licenses/Apache-2.0)
+[](https://www.google.com/search?q=https://arxiv.org/abs/2501.xxxxx) [](https://opensaource.org/licenses/Apache-2.0)
 
 > [Yuwei Niu¹²\*](https://purshow.github.io/), [Weiyang Jin³\*](https://github.com/WayneJin0918), Jiaqi Liao, Chaoran Feng¹, Peng Jin¹, Bin Lin¹, Zongjian Li¹, Bin Zhu¹, Weihao Yu¹, [Li Yuan¹⁴†](https://yuanli2333.github.io/)
 >
@@ -227,7 +225,7 @@ python eval/eval_knowledge.py \
 
 The script will:
 
-- Apply the strict **person / flower / fruit** captioning and evaluation prompts (see Table 11 in the paper PDF: [`Does Understanding Inform Generation in Unified Multimodal Models?`](file:///Users/purshow/Downloads/UniSandBox/202511_CVPR2026_Arxiv_unisandbox_%E5%89%AF%E6%9C%AC.pdf)).
+- Apply the strict **person / flower / fruit** captioning and evaluation prompts.
 - Produce `evaluation_results.csv` and `evaluation_results.log` in `image-dir`.
 
 For additional usage details (e.g., JSONL format, multi-threading), please refer to the docstring and comments at the top of `eval/eval_knowledge.py`.
