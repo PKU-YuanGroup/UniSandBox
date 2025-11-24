@@ -28,9 +28,9 @@ pip install flash_attn==2.5.8 --no-build-isolation
 
 ## 📂 Data Preparation
 
-**Training data** for UniSandbox is released on HuggingFace:
+**Training data** for UniSandbox(Reasoning Dimensions) is released on HuggingFace:
 
-- **Unified dataset:** [`Yuwei-Niu/UniSandbox`](https://huggingface.co/datasets/Yuwei-Niu/UniSandBox)
+- **Training dataset:** [`Yuwei-Niu/UniSandbox`](https://huggingface.co/datasets/Yuwei-Niu/UniSandBox)
 
 After downloading:
 
