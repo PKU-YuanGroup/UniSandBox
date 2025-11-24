@@ -241,3 +241,15 @@ This codebase is built upon [BAGEL](https://github.com/ByteDance-Seed/Bagel). We
 If you have any questions, feel free to contact **Yuwei Niu** at [niuyuwei04@gmail.com](mailto:niuyuwei04@gmail.com).
 
 For issues related to the BAGEL codebase, please refer to [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel).
+
+## Citation
+
+If you find our paper and code useful in your research, please consider giving us a star :star: and citing our work :pencil: :)
+```
+@article{niu2025wise,
+      title={Wise: A world knowledge-informed semantic evaluation for text-to-image generation},
+      author={Niu, Yuwei and Ning, Munan and Zheng, Mengren and Jin, Weiyang and Lin, Bin and Jin, Peng and Liao, Jiaqi and Feng, Chaoran and Ning, Kunpeng and Zhu, Bin and others},
+      journal={arXiv preprint arXiv:2503.07265},
+      year={2025}
+}
+```
