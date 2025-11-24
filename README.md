@@ -1,5 +1,3 @@
-Here is the updated `README.md` formatted to match the **SRUM** style you requested. I have incorporated the specific author block, the contact information, and the abstract introduction, followed by the technical documentation with relative paths.
-
 -----
 
 # UniSandbox: Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward
