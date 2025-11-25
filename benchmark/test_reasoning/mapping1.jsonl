@@ -1,0 +1,200 @@
+{"ID": "1", "Question_A": "Rule 1: The symbol A represents chairs. Rule 2: The symbol B represents tables. Please generate the object represented by the symbol A.", "Answer": "Chairs"}
+{"ID": "1", "Question_B": "Rule 1: The symbol A represents chairs. Rule 2: The symbol B represents tables. Please generate the object represented by the symbol B.", "Answer": "Tables"}
+{"ID": "2", "Question_A": "Rule 1: The symbol 1 represents phones. Rule 2: The symbol 2 represents laptops. Please generate the object represented by the symbol 1.", "Answer": "Phones"}
+{"ID": "2", "Question_B": "Rule 1: The symbol 1 represents phones. Rule 2: The symbol 2 represents laptops. Please generate the object represented by the symbol 2.", "Answer": "Laptops"}
+{"ID": "3", "Question_A": "Rule 1: The symbol # represents clocks. Rule 2: The symbol $ represents lamps. Please generate the object represented by the symbol #.", "Answer": "Clocks"}
+{"ID": "3", "Question_B": "Rule 1: The symbol # represents clocks. Rule 2: The symbol $ represents lamps. Please generate the object represented by the symbol $.", "Answer": "Lamps"}
+{"ID": "4", "Question_A": "Rule 1: The symbol % represents bicycles. Rule 2: The symbol ^ represents scooters. Please generate the object represented by the symbol %.", "Answer": "Bicycles"}
+{"ID": "4", "Question_B": "Rule 1: The symbol % represents bicycles. Rule 2: The symbol ^ represents scooters. Please generate the object represented by the symbol ^.", "Answer": "Scooters"}
+{"ID": "5", "Question_A": "Rule 1: The symbol @ represents refrigerators. Rule 2: The symbol * represents microwaves. Please generate the object represented by the symbol @.", "Answer": "Refrigerators"}
+{"ID": "5", "Question_B": "Rule 1: The symbol @ represents refrigerators. Rule 2: The symbol * represents microwaves. Please generate the object represented by the symbol *.", "Answer": "Microwaves"}
+{"ID": "6", "Question_A": "Rule 1: The symbol @ represents apples. Rule 2: The symbol # represents bicycles. Please generate the object represented by the symbol @.", "Answer": "Apples"}
+{"ID": "6", "Question_B": "Rule 1: The symbol @ represents apples. Rule 2: The symbol # represents bicycles. Please generate the object represented by the symbol #.", "Answer": "Bicycles"}
+{"ID": "7", "Question_A": "Rule 1: The symbol $ represents towels. Rule 2: The symbol % represents forks. Please generate the object represented by the symbol $.", "Answer": "Towels"}
+{"ID": "7", "Question_B": "Rule 1: The symbol $ represents towels. Rule 2: The symbol % represents forks. Please generate the object represented by the symbol %.", "Answer": "Forks"}
+{"ID": "8", "Question_A": "Rule 1: The symbol & represents lamps. Rule 2: The symbol * represents pillows. Please generate the object represented by the symbol &.", "Answer": "Lamps"}
+{"ID": "8", "Question_B": "Rule 1: The symbol & represents lamps. Rule 2: The symbol * represents pillows. Please generate the object represented by the symbol *.", "Answer": "Pillows"}
+{"ID": "9", "Question_A": "Rule 1: The symbol ^ represents clocks. Rule 2: The symbol ! represents keys. Please generate the object represented by the symbol ^.", "Answer": "Clocks"}
+{"ID": "9", "Question_B": "Rule 1: The symbol ^ represents clocks. Rule 2: The symbol ! represents keys. Please generate the object represented by the symbol !.", "Answer": "Keys"}
+{"ID": "10", "Question_A": "Rule 1: The symbol + represents scissors. Rule 2: The symbol ~ represents blankets. Please generate the object represented by the symbol +.", "Answer": "Scissors"}
+{"ID": "10", "Question_B": "Rule 1: The symbol + represents scissors. Rule 2: The symbol ~ represents blankets. Please generate the object represented by the symbol ~.", "Answer": "Blankets"}
+{"ID": "11", "Question_A": "Rule 1: The symbol > represents cameras. Rule 2: The symbol < represents books. Please generate the object represented by the symbol >.", "Answer": "Cameras"}
+{"ID": "11", "Question_B": "Rule 1: The symbol > represents cameras. Rule 2: The symbol < represents books. Please generate the object represented by the symbol <.", "Answer": "Books"}
+{"ID": "12", "Question_A": "Rule 1: The symbol 1 represents oranges. Rule 2: The symbol 2 represents markers. Please generate the object represented by the symbol 1.", "Answer": "Oranges"}
+{"ID": "12", "Question_B": "Rule 1: The symbol 1 represents oranges. Rule 2: The symbol 2 represents markers. Please generate the object represented by the symbol 2.", "Answer": "Markers"}
+{"ID": "13", "Question_A": "Rule 1: The symbol 3 represents chairs. Rule 2: The symbol 4 represents blankets. Please generate the object represented by the symbol 3.", "Answer": "Chairs"}
+{"ID": "13", "Question_B": "Rule 1: The symbol 3 represents chairs. Rule 2: The symbol 4 represents blankets. Please generate the object represented by the symbol 4.", "Answer": "Blankets"}
+{"ID": "14", "Question_A": "Rule 1: The symbol 5 represents tables. Rule 2: The symbol 6 represents cups. Please generate the object represented by the symbol 5.", "Answer": "Tables"}
+{"ID": "14", "Question_B": "Rule 1: The symbol 5 represents tables. Rule 2: The symbol 6 represents cups. Please generate the object represented by the symbol 6.", "Answer": "Cups"}
+{"ID": "15", "Question_A": "Rule 1: The symbol 7 represents computers. Rule 2: The symbol 8 represents vases. Please generate the object represented by the symbol 7.", "Answer": "Computers"}
+{"ID": "15", "Question_B": "Rule 1: The symbol 7 represents computers. Rule 2: The symbol 8 represents vases. Please generate the object represented by the symbol 8.", "Answer": "Vases"}
+{"ID": "16", "Question_A": "Rule 1: The symbol 9 represents notebooks. Rule 2: The symbol 0 represents guitars. Please generate the object represented by the symbol 9.", "Answer": "Notebooks"}
+{"ID": "16", "Question_B": "Rule 1: The symbol 9 represents notebooks. Rule 2: The symbol 0 represents guitars. Please generate the object represented by the symbol 0.", "Answer": "Guitars"}
+{"ID": "17", "Question_A": "Rule 1: The symbol a represents apples. Rule 2: The symbol b represents trays. Please generate the object represented by the symbol a.", "Answer": "Apples"}
+{"ID": "17", "Question_B": "Rule 1: The symbol a represents apples. Rule 2: The symbol b represents trays. Please generate the object represented by the symbol b.", "Answer": "Trays"}
+{"ID": "18", "Question_A": "Rule 1: The symbol c represents houses. Rule 2: The symbol d represents shoes. Please generate the object represented by the symbol c.", "Answer": "Houses"}
+{"ID": "18", "Question_B": "Rule 1: The symbol c represents houses. Rule 2: The symbol d represents shoes. Please generate the object represented by the symbol d.", "Answer": "Shoes"}
+{"ID": "19", "Question_A": "Rule 1: The symbol e represents fruits. Rule 2: The symbol f represents sweaters. Please generate the object represented by the symbol e.", "Answer": "Fruits"}
+{"ID": "19", "Question_B": "Rule 1: The symbol e represents fruits. Rule 2: The symbol f represents sweaters. Please generate the object represented by the symbol f.", "Answer": "Sweaters"}
+{"ID": "20", "Question_A": "Rule 1: The symbol g represents toys. Rule 2: The symbol h represents carpets. Please generate the object represented by the symbol g.", "Answer": "Toys"}
+{"ID": "20", "Question_B": "Rule 1: The symbol g represents toys. Rule 2: The symbol h represents carpets. Please generate the object represented by the symbol h.", "Answer": "Carpets"}
+{"ID": "21", "Question_A": "Rule 1: The symbol i represents flowers. Rule 2: The symbol j represents soap. Please generate the object represented by the symbol i.", "Answer": "Flowers"}
+{"ID": "21", "Question_B": "Rule 1: The symbol i represents flowers. Rule 2: The symbol j represents soap. Please generate the object represented by the symbol j.", "Answer": "Soap"}
+{"ID": "22", "Question_A": "Rule 1: The symbol k represents televisions. Rule 2: The symbol l represents mirrors. Please generate the object represented by the symbol k.", "Answer": "Televisions"}
+{"ID": "22", "Question_B": "Rule 1: The symbol k represents televisions. Rule 2: The symbol l represents mirrors. Please generate the object represented by the symbol l.", "Answer": "Mirrors"}
+{"ID": "23", "Question_A": "Rule 1: The symbol m represents telephones. Rule 2: The symbol n represents windows. Please generate the object represented by the symbol m.", "Answer": "Telephones"}
+{"ID": "23", "Question_B": "Rule 1: The symbol m represents telephones. Rule 2: The symbol n represents windows. Please generate the object represented by the symbol n.", "Answer": "Windows"}
+{"ID": "24", "Question_A": "Rule 1: The symbol o represents ovens. Rule 2: The symbol p represents sofas. Please generate the object represented by the symbol o.", "Answer": "Ovens"}
+{"ID": "24", "Question_B": "Rule 1: The symbol o represents ovens. Rule 2: The symbol p represents sofas. Please generate the object represented by the symbol p.", "Answer": "Sofas"}
+{"ID": "25", "Question_A": "Rule 1: The symbol q represents headphones. Rule 2: The symbol r represents jackets. Please generate the object represented by the symbol q.", "Answer": "Headphones"}
+{"ID": "25", "Question_B": "Rule 1: The symbol q represents headphones. Rule 2: The symbol r represents jackets. Please generate the object represented by the symbol r.", "Answer": "Jackets"}
+{"ID": "26", "Question_A": "Rule 1: The symbol s represents bags. Rule 2: The symbol t represents umbrellas. Please generate the object represented by the symbol s.", "Answer": "Bags"}
+{"ID": "26", "Question_B": "Rule 1: The symbol s represents bags. Rule 2: The symbol t represents umbrellas. Please generate the object represented by the symbol t.", "Answer": "Umbrellas"}
+{"ID": "27", "Question_A": "Rule 1: The symbol u represents candies. Rule 2: The symbol v represents brushes. Please generate the object represented by the symbol u.", "Answer": "Candies"}
+{"ID": "27", "Question_B": "Rule 1: The symbol u represents candies. Rule 2: The symbol v represents brushes. Please generate the object represented by the symbol v.", "Answer": "Brushes"}
+{"ID": "28", "Question_A": "Rule 1: The symbol w represents bicycles. Rule 2: The symbol x represents notepads. Please generate the object represented by the symbol w.", "Answer": "Bicycles"}
+{"ID": "28", "Question_B": "Rule 1: The symbol w represents bicycles. Rule 2: The symbol x represents notepads. Please generate the object represented by the symbol x.", "Answer": "Notepads"}
+{"ID": "29", "Question_A": "Rule 1: The symbol y represents beds. Rule 2: The symbol z represents pens. Please generate the object represented by the symbol y.", "Answer": "Beds"}
+{"ID": "29", "Question_B": "Rule 1: The symbol y represents beds. Rule 2: The symbol z represents pens. Please generate the object represented by the symbol z.", "Answer": "Pens"}
+{"ID": "30", "Question_A": "Rule 1: The symbol A represents laptops. Rule 2: The symbol B represents cars. Please generate the object represented by the symbol A.", "Answer": "Laptops"}
+{"ID": "30", "Question_B": "Rule 1: The symbol A represents laptops. Rule 2: The symbol B represents cars. Please generate the object represented by the symbol B.", "Answer": "Cars"}
+{"ID": "31", "Question_A": "Rule 1: The symbol @ represents apples. Rule 2: The symbol & represents buses. Please generate the object represented by the symbol @.", "Answer": "Apples"}
+{"ID": "31", "Question_B": "Rule 1: The symbol @ represents apples. Rule 2: The symbol & represents buses. Please generate the object represented by the symbol &.", "Answer": "Buses"}
+{"ID": "32", "Question_A": "Rule 1: The symbol % represents apples. Rule 2: The symbol ^ represents dogs. Please generate the animal represented by the symbol %.", "Answer": "Apples"}
+{"ID": "32", "Question_B": "Rule 1: The symbol % represents apples. Rule 2: The symbol ^ represents dogs. Please generate the animal represented by the symbol ^.", "Answer": "Dogs"}
+{"ID": "33", "Question_A": "Rule 1: The symbol $ represents books. Rule 2: The symbol # represents laptops. Please generate the item represented by the symbol $.", "Answer": "Books"}
+{"ID": "33", "Question_B": "Rule 1: The symbol $ represents books. Rule 2: The symbol # represents laptops. Please generate the item represented by the symbol #.", "Answer": "Laptops"}
+{"ID": "34", "Question_A": "Rule 1: The symbol + represents shirts. Rule 2: The symbol - represents pants. Please generate the clothing item represented by the symbol +.", "Answer": "Shirts"}
+{"ID": "34", "Question_B": "Rule 1: The symbol + represents shirts. Rule 2: The symbol - represents pants. Please generate the clothing item represented by the symbol -.", "Answer": "Pants"}
+{"ID": "35", "Question_A": "Rule 1: The symbol ! represents tables. Rule 2: The symbol ~ represents chairs. Please generate the object represented by the symbol !.", "Answer": "Tables"}
+{"ID": "35", "Question_B": "Rule 1: The symbol ! represents tables. Rule 2: The symbol ~ represents chairs. Please generate the object represented by the symbol ~.", "Answer": "Chairs"}
+{"ID": "36", "Question_A": "Rule 1: The symbol ? represents oranges. Rule 2: The symbol | represents lemons. Please generate the fruit represented by the symbol ?.", "Answer": "Oranges"}
+{"ID": "36", "Question_B": "Rule 1: The symbol ? represents oranges. Rule 2: The symbol | represents lemons. Please generate the fruit represented by the symbol |.", "Answer": "Lemons"}
+{"ID": "37", "Question_A": "Rule 1: The symbol a represents pillows. Rule 2: The symbol b represents blankets. Please generate the item represented by the symbol a.", "Answer": "Pillows"}
+{"ID": "37", "Question_B": "Rule 1: The symbol a represents pillows. Rule 2: The symbol b represents blankets. Please generate the item represented by the symbol b.", "Answer": "Blankets"}
+{"ID": "38", "Question_A": "Rule 1: The symbol c represents phones. Rule 2: The symbol d represents cameras. Please generate the object represented by the symbol c.", "Answer": "Phones"}
+{"ID": "38", "Question_B": "Rule 1: The symbol c represents phones. Rule 2: The symbol d represents cameras. Please generate the object represented by the symbol d.", "Answer": "Cameras"}
+{"ID": "39", "Question_A": "Rule 1: The symbol e represents grapes. Rule 2: The symbol f represents strawberries. Please generate the fruit represented by the symbol e.", "Answer": "Grapes"}
+{"ID": "39", "Question_B": "Rule 1: The symbol e represents grapes. Rule 2: The symbol f represents strawberries. Please generate the fruit represented by the symbol f.", "Answer": "Strawberries"}
+{"ID": "40", "Question_A": "Rule 1: The symbol g represents drums. Rule 2: The symbol h represents guitars. Please generate the instrument represented by the symbol g.", "Answer": "Drums"}
+{"ID": "40", "Question_B": "Rule 1: The symbol g represents drums. Rule 2: The symbol h represents guitars. Please generate the instrument represented by the symbol h.", "Answer": "Guitars"}
+{"ID": "41", "Question_A": "Rule 1: The symbol i represents forks. Rule 2: The symbol j represents spoons. Please generate the utensil represented by the symbol i.", "Answer": "Forks"}
+{"ID": "41", "Question_B": "Rule 1: The symbol i represents forks. Rule 2: The symbol j represents spoons. Please generate the utensil represented by the symbol j.", "Answer": "Spoons"}
+{"ID": "42", "Question_A": "Rule 1: The symbol k represents clouds. Rule 2: The symbol l represents rainbows. Please generate the object represented by the symbol k.", "Answer": "Clouds"}
+{"ID": "42", "Question_B": "Rule 1: The symbol k represents clouds. Rule 2: The symbol l represents rainbows. Please generate the object represented by the symbol l.", "Answer": "Rainbows"}
+{"ID": "43", "Question_A": "Rule 1: The symbol m represents guitars. Rule 2: The symbol n represents pianos. Please generate the instrument represented by the symbol m.", "Answer": "Guitars"}
+{"ID": "43", "Question_B": "Rule 1: The symbol m represents guitars. Rule 2: The symbol n represents pianos. Please generate the instrument represented by the symbol n.", "Answer": "Pianos"}
+{"ID": "44", "Question_A": "Rule 1: The symbol o represents dogs. Rule 2: The symbol p represents clocks. Please generate the object represented by the symbol o.", "Answer": "Dogs"}
+{"ID": "44", "Question_B": "Rule 1: The symbol o represents dogs. Rule 2: The symbol p represents clocks. Please generate the object represented by the symbol p.", "Answer": "Clocks"}
+{"ID": "45", "Question_A": "Rule 1: The symbol q represents dogs. Rule 2: The symbol r represents cats. Please generate the animal represented by the symbol q.", "Answer": "Dogs"}
+{"ID": "45", "Question_B": "Rule 1: The symbol q represents dogs. Rule 2: The symbol r represents cats. Please generate the animal represented by the symbol r.", "Answer": "Cats"}
+{"ID": "46", "Question_A": "Rule 1: The symbol s represents baskets. Rule 2: The symbol t represents buckets. Please generate the object represented by the symbol s.", "Answer": "Baskets"}
+{"ID": "46", "Question_B": "Rule 1: The symbol s represents baskets. Rule 2: The symbol t represents buckets. Please generate the object represented by the symbol t.", "Answer": "Buckets"}
+{"ID": "47", "Question_A": "Rule 1: The symbol u represents desks. Rule 2: The symbol v represents cabinets. Please generate the object represented by the symbol u.", "Answer": "Desks"}
+{"ID": "47", "Question_B": "Rule 1: The symbol u represents desks. Rule 2: The symbol v represents cabinets. Please generate the object represented by the symbol v.", "Answer": "Cabinets"}
+{"ID": "48", "Question_A": "Rule 1: The symbol w represents radios. Rule 2: The symbol x represents televisions. Please generate the item represented by the symbol w.", "Answer": "Radios"}
+{"ID": "48", "Question_B": "Rule 1: The symbol w represents radios. Rule 2: The symbol x represents televisions. Please generate the item represented by the symbol x.", "Answer": "Televisions"}
+{"ID": "49", "Question_A": "Rule 1: The symbol y represents bicycles. Rule 2: The symbol z represents scooters. Please generate the object represented by the symbol y.", "Answer": "Bicycles"}
+{"ID": "49", "Question_B": "Rule 1: The symbol y represents bicycles. Rule 2: The symbol z represents scooters. Please generate the object represented by the symbol z.", "Answer": "Scooters"}
+{"ID": "50", "Question_A": "Rule 1: The symbol A represents chalkboards. Rule 2: The symbol B represents whiteboards. Please generate the object represented by the symbol A.", "Answer": "Chalkboards"}
+{"ID": "50", "Question_B": "Rule 1: The symbol A represents chalkboards. Rule 2: The symbol B represents whiteboards. Please generate the object represented by the symbol B.", "Answer": "Whiteboards"}
+{"ID": "51", "Question_A": "Rule 1: The symbol C represents socks. Rule 2: The symbol D represents shoes. Please generate the clothing item represented by the symbol C.", "Answer": "Socks"}
+{"ID": "51", "Question_B": "Rule 1: The symbol C represents socks. Rule 2: The symbol D represents shoes. Please generate the clothing item represented by the symbol D.", "Answer": "Shoes"}
+{"ID": "52", "Question_A": "Rule 1: The symbol E represents apples. Rule 2: The symbol F represents bananas. Please generate the fruit represented by the symbol E.", "Answer": "Apples"}
+{"ID": "52", "Question_B": "Rule 1: The symbol E represents apples. Rule 2: The symbol F represents bananas. Please generate the fruit represented by the symbol F.", "Answer": "Bananas"}
+{"ID": "53", "Question_A": "Rule 1: The symbol G represents roses. Rule 2: The symbol H represents cars. Please generate the flower represented by the symbol G.", "Answer": "Roses"}
+{"ID": "53", "Question_B": "Rule 1: The symbol G represents roses. Rule 2: The symbol H represents cars. Please generate the flower represented by the symbol H.", "Answer": "Cars"}
+{"ID": "54", "Question_A": "Rule 1: The symbol I represents sofas. Rule 2: The symbol J represents armchairs. Please generate the furniture represented by the symbol I.", "Answer": "Sofas"}
+{"ID": "54", "Question_B": "Rule 1: The symbol I represents sofas. Rule 2: The symbol J represents armchairs. Please generate the furniture represented by the symbol J.", "Answer": "Armchairs"}
+{"ID": "55", "Question_A": "Rule 1: The symbol K represents refrigerators. Rule 2: The symbol L represents microwaves. Please generate the appliance represented by the symbol K.", "Answer": "Refrigerators"}
+{"ID": "55", "Question_B": "Rule 1: The symbol K represents refrigerators. Rule 2: The symbol L represents microwaves. Please generate the appliance represented by the symbol L.", "Answer": "Microwaves"}
+{"ID": "56", "Question_A": "Rule 1: The symbol @ represents dogs. Rule 2: The symbol * represents cats. Please generate the animal represented by the symbol @.", "Answer": "Dogs"}
+{"ID": "56", "Question_B": "Rule 1: The symbol @ represents dogs. Rule 2: The symbol * represents cats. Please generate the animal represented by the symbol *.", "Answer": "Cats"}
+{"ID": "57", "Question_A": "Rule 1: The symbol # represents cars. Rule 2: The symbol $ represents bikes. Please generate the vehicle represented by the symbol #.", "Answer": "Cars"}
+{"ID": "57", "Question_B": "Rule 1: The symbol # represents cars. Rule 2: The symbol $ represents bikes. Please generate the vehicle represented by the symbol $.", "Answer": "Bikes"}
+{"ID": "58", "Question_A": "Rule 1: The symbol % represents computers. Rule 2: The symbol ^ represents monitors. Please generate the electronic item represented by the symbol %.", "Answer": "Computers"}
+{"ID": "58", "Question_B": "Rule 1: The symbol % represents computers. Rule 2: The symbol ^ represents monitors. Please generate the electronic item represented by the symbol ^.", "Answer": "Monitors"}
+{"ID": "59", "Question_A": "Rule 1: The symbol * represents oranges. Rule 2: The symbol @ represents bananas. Please generate the fruit represented by the symbol *.", "Answer": "Oranges"}
+{"ID": "59", "Question_B": "Rule 1: The symbol * represents oranges. Rule 2: The symbol @ represents bananas. Please generate the fruit represented by the symbol @.", "Answer": "Bananas"}
+{"ID": "60", "Question_A": "Rule 1: The symbol $ represents notebooks. Rule 2: The symbol # represents desktops. Please generate the object represented by the symbol $.", "Answer": "Notebooks"}
+{"ID": "60", "Question_B": "Rule 1: The symbol $ represents notebooks. Rule 2: The symbol # represents desktops. Please generate the object represented by the symbol #.", "Answer": "Desktops"}
+{"ID": "61", "Question_A": "Rule 1: The symbol @ represents strawberries. Rule 2: The symbol % represents blueberries. Please generate the fruit represented by the symbol @.", "Answer": "Strawberries"}
+{"ID": "61", "Question_B": "Rule 1: The symbol @ represents strawberries. Rule 2: The symbol % represents blueberries. Please generate the fruit represented by the symbol %.", "Answer": "Blueberries"}
+{"ID": "62", "Question_A": "Rule 1: The symbol & represents lamps. Rule 2: The symbol ^ represents books. Please generate the object represented by the symbol &.", "Answer": "Lamps"}
+{"ID": "62", "Question_B": "Rule 1: The symbol & represents lamps. Rule 2: The symbol ^ represents books. Please generate the object represented by the symbol ^.", "Answer": "Books"}
+{"ID": "63", "Question_A": "Rule 1: The symbol ! represents telephones. Rule 2: The symbol % represents cameras. Please generate the object represented by the symbol !.", "Answer": "Telephones"}
+{"ID": "63", "Question_B": "Rule 1: The symbol ! represents telephones. Rule 2: The symbol % represents cameras. Please generate the object represented by the symbol %.", "Answer": "Cameras"}
+{"ID": "64", "Question_A": "Rule 1: The symbol ^ represents rabbits. Rule 2: The symbol * represents guinea pigs. Please generate the animal represented by the symbol ^.", "Answer": "Rabbits"}
+{"ID": "64", "Question_B": "Rule 1: The symbol ^ represents rabbits. Rule 2: The symbol * represents guinea pigs. Please generate the animal represented by the symbol *.", "Answer": "Guinea pigs"}
+{"ID": "65", "Question_A": "Rule 1: The symbol $ represents calculators. Rule 2: The symbol & represents rulers. Please generate the object represented by the symbol $.", "Answer": "Calculators"}
+{"ID": "65", "Question_B": "Rule 1: The symbol $ represents calculators. Rule 2: The symbol & represents rulers. Please generate the object represented by the symbol &.", "Answer": "Rulers"}
+{"ID": "66", "Question_A": "Rule 1: The symbol * represents pizzas. Rule 2: The symbol @ represents burgers. Please generate the food represented by the symbol *.", "Answer": "Pizzas"}
+{"ID": "66", "Question_B": "Rule 1: The symbol * represents pizzas. Rule 2: The symbol @ represents burgers. Please generate the food represented by the symbol @.", "Answer": "Burgers"}
+{"ID": "67", "Question_A": "Rule 1: The symbol # represents watches. Rule 2: The symbol $ represents clocks. Please generate the object represented by the symbol #.", "Answer": "Watches"}
+{"ID": "67", "Question_B": "Rule 1: The symbol # represents watches. Rule 2: The symbol $ represents clocks. Please generate the object represented by the symbol $.", "Answer": "Clocks"}
+{"ID": "68", "Question_A": "Rule 1: The symbol % represents umbrellas. Rule 2: The symbol ^ represents raincoats. Please generate the object represented by the symbol %.", "Answer": "Umbrellas"}
+{"ID": "68", "Question_B": "Rule 1: The symbol % represents umbrellas. Rule 2: The symbol ^ represents raincoats. Please generate the object represented by the symbol ^.", "Answer": "Raincoats"}
+{"ID": "69", "Question_A": "Rule 1: The symbol @ represents peaches. Rule 2: The symbol & represents apples. Please generate the fruit represented by the symbol @.", "Answer": "Peaches"}
+{"ID": "69", "Question_B": "Rule 1: The symbol @ represents peaches. Rule 2: The symbol & represents apples. Please generate the fruit represented by the symbol &.", "Answer": "Apples"}
+{"ID": "70", "Question_A": "Rule 1: The symbol * represents footballs. Rule 2: The symbol # represents basketballs. Please generate the sports equipment represented by the symbol *.", "Answer": "Footballs"}
+{"ID": "70", "Question_B": "Rule 1: The symbol * represents footballs. Rule 2: The symbol # represents basketballs. Please generate the sports equipment represented by the symbol #.", "Answer": "Basketballs"}
+{"ID": "71", "Question_A": "Rule 1: The symbol $ represents boots. Rule 2: The symbol % represents sneakers. Please generate the footwear represented by the symbol $.", "Answer": "Boots"}
+{"ID": "71", "Question_B": "Rule 1: The symbol $ represents boots. Rule 2: The symbol % represents sneakers. Please generate the footwear represented by the symbol %.", "Answer": "Sneakers"}
+{"ID": "72", "Question_A": "Rule 1: The symbol & represents refrigerators. Rule 2: The symbol ^ represents ovens. Please generate the appliance represented by the symbol &.", "Answer": "Refrigerators"}
+{"ID": "72", "Question_B": "Rule 1: The symbol & represents refrigerators. Rule 2: The symbol ^ represents ovens. Please generate the appliance represented by the symbol ^.", "Answer": "Ovens"}
+{"ID": "73", "Question_A": "Rule 1: The symbol ! represents hammocks. Rule 2: The symbol * represents lawn chairs. Please generate the furniture represented by the symbol !.", "Answer": "Hammocks"}
+{"ID": "73", "Question_B": "Rule 1: The symbol ! represents hammocks. Rule 2: The symbol * represents lawn chairs. Please generate the furniture represented by the symbol *.", "Answer": "Lawn chairs"}
+{"ID": "74", "Question_A": "Rule 1: The symbol # represents guitars. Rule 2: The symbol $ represents drums. Please generate the musical instrument represented by the symbol #.", "Answer": "Guitars"}
+{"ID": "74", "Question_B": "Rule 1: The symbol # represents guitars. Rule 2: The symbol $ represents drums. Please generate the musical instrument represented by the symbol $.", "Answer": "Drums"}
+{"ID": "75", "Question_A": "Rule 1: The symbol % represents tablets. Rule 2: The symbol ^ represents smartphones. Please generate the device represented by the symbol %.", "Answer": "Tablets"}
+{"ID": "75", "Question_B": "Rule 1: The symbol % represents tablets. Rule 2: The symbol ^ represents smartphones. Please generate the device represented by the symbol ^.", "Answer": "Smartphones"}
+{"ID": "76", "Question_A": "Rule 1: The symbol @ represents journals. Rule 2: The symbol & represents diaries. Please generate the stationery item represented by the symbol @.", "Answer": "Journals"}
+{"ID": "76", "Question_B": "Rule 1: The symbol @ represents journals. Rule 2: The symbol & represents diaries. Please generate the stationery item represented by the symbol &.", "Answer": "Diaries"}
+{"ID": "77", "Question_A": "Rule 1: The symbol * represents headphones. Rule 2: The symbol # represents speakers. Please generate the audio device represented by the symbol *.", "Answer": "Headphones"}
+{"ID": "77", "Question_B": "Rule 1: The symbol * represents headphones. Rule 2: The symbol # represents speakers. Please generate the audio device represented by the symbol #.", "Answer": "Speakers"}
+{"ID": "78", "Question_A": "Rule 1: The symbol $ represents curtains. Rule 2: The symbol % represents rugs. Please generate the home decor item represented by the symbol $.", "Answer": "Curtains"}
+{"ID": "78", "Question_B": "Rule 1: The symbol $ represents curtains. Rule 2: The symbol % represents rugs. Please generate the home decor item represented by the symbol %.", "Answer": "Rugs"}
+{"ID": "79", "Question_A": "Rule 1: The symbol & represents blankets. Rule 2: The symbol ^ represents pillows. Please generate the bedding item represented by the symbol &.", "Answer": "Blankets"}
+{"ID": "79", "Question_B": "Rule 1: The symbol & represents blankets. Rule 2: The symbol ^ represents pillows. Please generate the bedding item represented by the symbol ^.", "Answer": "Pillows"}
+{"ID": "80", "Question_A": "Rule 1: The symbol ! represents toothpaste. Rule 2: The symbol @ represents toothbrushes. Please generate the personal care item represented by the symbol !.", "Answer": "Toothpaste"}
+{"ID": "80", "Question_B": "Rule 1: The symbol ! represents toothpaste. Rule 2: The symbol @ represents toothbrushes. Please generate the personal care item represented by the symbol @.", "Answer": "Toothbrushes"}
+{"ID": "81", "Question_A": "Rule 1: The symbol # represents cups. Rule 2: The symbol * represents plates. Please generate the object represented by the symbol #.", "Answer": "Cups"}
+{"ID": "81", "Question_B": "Rule 1: The symbol # represents cups. Rule 2: The symbol * represents plates. Please generate the object represented by the symbol *.", "Answer": "Plates"}
+{"ID": "82", "Question_A": "Rule 1: The symbol @ represents cars. Rule 2: The symbol ^ represents bicycles. Please generate the vehicle represented by the symbol @.", "Answer": "Cars"}
+{"ID": "82", "Question_B": "Rule 1: The symbol @ represents cars. Rule 2: The symbol ^ represents bicycles. Please generate the vehicle represented by the symbol ^.", "Answer": "Bicycles"}
+{"ID": "83", "Question_A": "Rule 1: The symbol % represents laptops. Rule 2: The symbol & represents tablets. Please generate the electronic device represented by the symbol %.", "Answer": "Laptops"}
+{"ID": "83", "Question_B": "Rule 1: The symbol % represents laptops. Rule 2: The symbol & represents tablets. Please generate the electronic device represented by the symbol &.", "Answer": "Tablets"}
+{"ID": "84", "Question_A": "Rule 1: The symbol $ represents shoes. Rule 2: The symbol ! represents socks. Please generate the item represented by the symbol $.", "Answer": "Shoes"}
+{"ID": "84", "Question_B": "Rule 1: The symbol $ represents shoes. Rule 2: The symbol ! represents socks. Please generate the item represented by the symbol !.", "Answer": "Socks"}
+{"ID": "85", "Question_A": "Rule 1: The symbol [ represents windows. Rule 2: The symbol ] represents doors. Please generate the object represented by the symbol [.", "Answer": "Windows"}
+{"ID": "85", "Question_B": "Rule 1: The symbol [ represents windows. Rule 2: The symbol ] represents doors. Please generate the object represented by the symbol ].", "Answer": "Doors"}
+{"ID": "86", "Question_A": "Rule 1: The symbol ^ represents jackets. Rule 2: The symbol * represents hats. Please generate the item represented by the symbol ^.", "Answer": "Jackets"}
+{"ID": "86", "Question_B": "Rule 1: The symbol ^ represents jackets. Rule 2: The symbol * represents hats. Please generate the item represented by the symbol *.", "Answer": "Hats"}
+{"ID": "87", "Question_A": "Rule 1: The symbol & represents blankets. Rule 2: The symbol # represents pillows. Please generate the object represented by the symbol &.", "Answer": "Blankets"}
+{"ID": "87", "Question_B": "Rule 1: The symbol & represents blankets. Rule 2: The symbol # represents pillows. Please generate the object represented by the symbol #.", "Answer": "Pillows"}
+{"ID": "88", "Question_A": "Rule 1: The symbol * represents trees. Rule 2: The symbol ! represents flowers. Please generate the plant represented by the symbol *.", "Answer": "Trees"}
+{"ID": "88", "Question_B": "Rule 1: The symbol * represents trees. Rule 2: The symbol ! represents flowers. Please generate the plant represented by the symbol !.", "Answer": "Flowers"}
+{"ID": "89", "Question_A": "Rule 1: The symbol @ represents televisions. Rule 2: The symbol $ represents radios. Please generate the electronic device represented by the symbol @.", "Answer": "Televisions"}
+{"ID": "89", "Question_B": "Rule 1: The symbol @ represents televisions. Rule 2: The symbol $ represents radios. Please generate the electronic device represented by the symbol $.", "Answer": "Radios"}
+{"ID": "90", "Question_A": "Rule 1: The symbol % represents apples. Rule 2: The symbol + represents bananas. Please generate the fruit represented by the symbol %.", "Answer": "Apples"}
+{"ID": "90", "Question_B": "Rule 1: The symbol % represents apples. Rule 2: The symbol + represents bananas. Please generate the fruit represented by the symbol +.", "Answer": "Bananas"}
+{"ID": "91", "Question_A": "Rule 1: The symbol # represents refrigerators. Rule 2: The symbol & represents microwaves. Please generate the appliance represented by the symbol #.", "Answer": "Refrigerators"}
+{"ID": "91", "Question_B": "Rule 1: The symbol # represents refrigerators. Rule 2: The symbol & represents microwaves. Please generate the appliance represented by the symbol &.", "Answer": "Microwaves"}
+{"ID": "92", "Question_A": "Rule 1: The symbol $ represents cats. Rule 2: The symbol % represents birds. Please generate the animal represented by the symbol $.", "Answer": "Cats"}
+{"ID": "92", "Question_B": "Rule 1: The symbol $ represents cats. Rule 2: The symbol % represents birds. Please generate the animal represented by the symbol %.", "Answer": "Birds"}
+{"ID": "93", "Question_A": "Rule 1: The symbol ^ represents glasses. Rule 2: The symbol # represents umbrellas. Please generate the object represented by the symbol ^.", "Answer": "Glasses"}
+{"ID": "93", "Question_B": "Rule 1: The symbol ^ represents glasses. Rule 2: The symbol # represents umbrellas. Please generate the object represented by the symbol #.", "Answer": "Umbrellas"}
+{"ID": "94", "Question_A": "Rule 1: The symbol + represents computers. Rule 2: The symbol - represents keyboards. Please generate the electronic device represented by the symbol +.", "Answer": "Computers"}
+{"ID": "94", "Question_B": "Rule 1: The symbol + represents computers. Rule 2: The symbol - represents keyboards. Please generate the electronic device represented by the symbol -.", "Answer": "Keyboards"}
+{"ID": "95", "Question_A": "Rule 1: The symbol ! represents books. Rule 2: The symbol ? represents magazines. Please generate the item represented by the symbol !.", "Answer": "Books"}
+{"ID": "95", "Question_B": "Rule 1: The symbol ! represents books. Rule 2: The symbol ? represents magazines. Please generate the item represented by the symbol ?.", "Answer": "Magazines"}
+{"ID": "96", "Question_A": "Rule 1: The symbol * represents lamps. Rule 2: The symbol & represents chairs. Please generate the furniture represented by the symbol *.", "Answer": "Lamps"}
+{"ID": "96", "Question_B": "Rule 1: The symbol * represents lamps. Rule 2: The symbol & represents chairs. Please generate the furniture represented by the symbol &.", "Answer": "Chairs"}
+{"ID": "97", "Question_A": "Rule 1: The symbol @ represents telephones. Rule 2: The symbol ^ represents printers. Please generate the electronic device represented by the symbol @.", "Answer": "Telephones"}
+{"ID": "97", "Question_B": "Rule 1: The symbol @ represents telephones. Rule 2: The symbol ^ represents printers. Please generate the electronic device represented by the symbol ^.", "Answer": "Printers"}
+{"ID": "98", "Question_A": "Rule 1: The symbol % represents tablets. Rule 2: The symbol @ represents cameras. Please generate the electronic device represented by the symbol %.", "Answer": "Tablets"}
+{"ID": "98", "Question_B": "Rule 1: The symbol % represents tablets. Rule 2: The symbol @ represents cameras. Please generate the electronic device represented by the symbol @.", "Answer": "Cameras"}
+{"ID": "99", "Question_A": "Rule 1: The symbol ! represents notebooks. Rule 2: The symbol * represents pencils. Please generate the stationery item represented by the symbol !.", "Answer": "Notebooks"}
+{"ID": "99", "Question_B": "Rule 1: The symbol ! represents notebooks. Rule 2: The symbol * represents pencils. Please generate the stationery item represented by the symbol *.", "Answer": "Pencils"}
+{"ID": "100", "Question_A": "Rule 1: The symbol # represents backpacks. Rule 2: The symbol ^ represents suitcases. Please generate the item represented by the symbol #.", "Answer": "Backpacks"}
+{"ID": "100", "Question_B": "Rule 1: The symbol # represents backpacks. Rule 2: The symbol ^ represents suitcases. Please generate the item represented by the symbol ^.", "Answer": "Suitcases"}

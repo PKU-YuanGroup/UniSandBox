@@ -1,0 +1,16 @@
+t2i_pretrain:
+  dataset_names:
+  - mapping1_1w_reject
+  - mapping2_1w_reject
+  - mapping3_1w_reject
+  image_transform_args:
+    image_stride: 16
+    max_image_size: 1024
+    max_image_size: 1024
+    min_image_size: 512
+  is_mandatory: true
+  num_used_data: # The sum should be larger that NUM_GPUS x NUM_WORKERS
+  - 10000  # mapping1_1w_reject
+  - 10000  # mapping2_1w_reject
+  - 10000  # mapping3_1w_reject
+  weight: 1 
