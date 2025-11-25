@@ -25,20 +25,6 @@ pip install flash_attn==2.5.8 --no-build-isolation
 ```
 
 > **Note:** The provided training scripts are configured for 8 GPUs (e.g., 8×A100 80G) via `CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7`. You can adjust `NUM_GPUS`, memory, and device settings in the shell scripts to fit your hardware.
-
-## 📂 Data Preparation
-
-**Training data** for UniSandbox(Reasoning Dimensions) is released on HuggingFace:
-
-- **Training dataset:** [`Yuwei-Niu/UniSandbox`](https://huggingface.co/datasets/Yuwei-Niu/UniSandBox)
-
-After downloading:
-
-- **Configure dataset paths** in `data/dataset_info.py`:
-  - For reasoning Training, fill the placeholders under `DATASET_INFO["t2i_pretrain"]` (e.g., `math1_reject_5k`, `math2_reject_5k`, `mapping1_1w_reject`, etc.) with your local `data_dir` and `num_total_samples`.
-  - For knowledge injection, update `DATASET_INFO["vlm_sft"]` entries (e.g., `Lysendria`, `Aurelius_Nyxella`, etc.) so that `data_dir` points to your rendered images and `jsonl_path` points to the corresponding JSONL files under `data/knowledge`.
-- **Check dataset configs** in `data/configs/Math/*.yaml`, `data/configs/Mapping/*.yaml`, and `data/configs/Knowledge/*/*.yaml` to ensure that the dataset names they reference exist and match the keys in `DATASET_INFO`.
-
 -----
 
 ## 🧠 Section 1: Reasoning Generation
