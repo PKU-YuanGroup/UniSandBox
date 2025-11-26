@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://arxiv.org/abs/2511.20561">
+    <img
+      src="https://img.shields.io/badge/UniSandbox-Paper-red"
+      alt="UniSandbox Paper on arXiv"
+    />
+  </a>
+</p>
+
 # UniSandbox: Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward
 
 [](https://www.google.com/search?q=https://arxiv.org/abs/2501.xxxxx) [](https://opensaource.org/licenses/Apache-2.0)
