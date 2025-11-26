@@ -5,6 +5,18 @@
       alt="UniSandbox Paper on arXiv"
     />
   </a>
+  <a href="https://huggingface.co/">
+    <img 
+        src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue" 
+        alt="UniSandbox Model"
+    />
+  </a>
+  <a href="https://huggingface.co/datasets">
+    <img 
+        src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue" 
+        alt="UniSandbox Data"
+    />
+  </a>
 </p>
 
 # UniSandbox: Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward
