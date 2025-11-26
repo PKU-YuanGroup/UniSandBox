@@ -232,10 +232,10 @@ For issues related to the BAGEL codebase, please refer to [ByteDance-Seed/Bagel]
 
 If you find our paper and code useful in your research, please consider giving us a star :star: and citing our work :pencil: :)
 ```
-@article{niu2025wise,
-      title={Wise: A world knowledge-informed semantic evaluation for text-to-image generation},
-      author={Niu, Yuwei and Ning, Munan and Zheng, Mengren and Jin, Weiyang and Lin, Bin and Jin, Peng and Liao, Jiaqi and Feng, Chaoran and Ning, Kunpeng and Zhu, Bin and others},
-      journal={arXiv preprint arXiv:2503.07265},
+@article{niu2025doesunderstandinginformgeneration,
+      title={Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward}, 
+      author={Yuwei Niu and Weiyang Jin and Jiaqi Liao and Chaoran Feng and Peng Jin and Bin Lin and Zongjian Li and Bin Zhu and Weihao Yu and Li Yuan},
+      journal={arXiv preprint arXiv:2511.20561},
       year={2025}
 }
 ```
