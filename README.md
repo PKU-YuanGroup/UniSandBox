@@ -29,7 +29,7 @@
 
 [](https://www.google.com/search?q=https://arxiv.org/abs/2501.xxxxx) [](https://opensaource.org/licenses/Apache-2.0)
 
-> [Yuwei Niu¹²\*](https://purshow.github.io/), [Weiyang Jin³\*](https://github.com/WayneJin0918), Jiaqi Liao, Chaoran Feng¹, Peng Jin¹, Bin Lin¹, Zongjian Li¹, Bin Zhu¹, [Weihao Yu¹](https://whyu.me/), [Li Yuan¹⁴†](https://yuanli2333.github.io/)
+> [Yuwei Niu¹²\*](https://purshow.github.io/), [Weiyang Jin³\*](https://github.com/WayneJin0918), Jiaqi Liao, Chaoran Feng¹, Peng Jin¹, Bin Lin¹, Zongjian Li¹, Bin Zhu¹, Weihao Yu¹, [Li Yuan¹⁴†](https://yuanli2333.github.io/)
 >
 > ¹Peking University, ²Chongqing University, ³HKU MMLab, ⁴PengCheng Laboratory  
 > \*Equal contribution, †Corresponding Author
