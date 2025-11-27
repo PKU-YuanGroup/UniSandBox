@@ -17,7 +17,7 @@
         alt="UniSandbox Data"
     />
   </a>
-  <a href="[https://huggingface.co/datasets](https://huggingface.co/papers/2511.20561)">
+  <a href="https://huggingface.co/papers/2511.20561">
     <img 
         src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Papers-blue" 
         alt="UniSandbox Data"
